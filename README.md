@@ -1,9 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://estradavelasquez.com/homepage/public/img/ev_logo2.png" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank">Repositorio clonado desde el repositorio de Estrada Velasquez @DanielCorrea</a></p>
 
 <p align="center">
     <a href="#"><img src="https://github.com/dcorrea-estrav/evpiu-vue/workflows/CI/badge.svg" alt="Integrations"></a>  
-    <a href="#"><img src="https://www.codefactor.io/repository/github/ryunosukee/evpiu-vue/badge?s=9267154a139de06c2b2fb5fb69d876934e422203" alt="Integrations"></a>  
-    
+    <a href="#"><img src="https://www.codefactor.io/repository/github/ryunosukee/evpiu-vue/badge?s=9267154a139de06c2b2fb5fb69d876934e422203" alt="Integrations"></a>
 </p>
 
 # Plataforma de informacion unificada de Estrada Velasquez
