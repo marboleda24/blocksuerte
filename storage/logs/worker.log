@@ -1,0 +1,4226 @@
+[2022-02-07 09:48:32][1] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:38][1] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:38][2] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:42][2] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:42][3] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:47][3] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:47][4] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:51][4] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:51][5] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:56][5] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:48:56][6] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:00][6] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:00][7] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:04][7] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:04][8] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:08][8] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:08][9] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:12][9] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:12][10] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:16][10] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:16][11] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:20][11] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:20][12] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:25][12] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:25][13] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:29][13] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:29][14] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:34][14] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:34][15] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:39][15] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:39][16] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:43][16] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:43][17] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:47][17] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:47][18] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:50][18] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:50][19] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:54][19] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:54][20] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:58][20] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:49:58][21] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:03][21] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:03][22] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:08][22] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:08][23] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:12][23] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:12][24] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:16][24] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:16][25] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:20][25] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:20][26] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:24][26] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:24][27] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:28][27] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:28][28] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:32][28] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:32][29] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:36][29] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:36][30] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:40][30] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:40][31] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:44][31] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:44][32] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:48][32] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:48][33] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:52][33] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:52][34] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:57][34] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:50:57][35] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:00][35] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:00][36] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:04][36] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:04][37] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:08][37] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:08][38] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:12][38] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:12][39] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:16][39] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:16][40] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:20][40] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:20][41] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:25][41] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:25][42] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:29][42] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:29][43] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+Expected response code 220 but got an empty response[2022-02-07 09:51:30][43] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:30][44] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:34][44] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:34][45] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:39][45] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:39][46] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:43][46] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:43][47] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:46][47] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:46][48] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:51][48] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:51][49] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:55][49] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:55][50] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:59][50] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:51:59][51] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:03][51] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:03][52] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:07][52] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:07][53] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:11][53] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:11][54] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:15][54] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:15][55] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:19][55] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:19][56] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:23][56] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:23][57] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:27][57] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:27][58] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:32][58] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:32][59] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:36][59] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:36][60] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:40][60] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:40][61] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:44][61] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:44][62] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:49][62] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:49][63] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:52][63] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:52][64] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:57][64] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:52:57][65] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:02][65] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:02][66] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:06][66] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:06][67] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:09][67] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:09][68] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:13][68] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:13][69] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:17][69] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:17][70] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:21][70] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:21][71] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:25][71] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:25][72] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:29][72] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:29][73] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:33][73] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:33][74] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:37][74] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:37][75] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:41][75] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:41][76] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:45][76] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:45][77] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:49][77] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:49][78] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:53][78] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:53][79] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:58][79] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:53:58][80] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:01][80] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:01][81] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:06][81] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:06][82] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:10][82] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:10][83] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:14][83] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:14][84] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:18][84] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:18][85] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:22][85] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:22][86] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:26][86] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:26][87] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:30][87] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:30][88] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:33][88] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:33][89] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:37][89] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:37][90] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:42][90] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:42][91] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:46][91] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:46][92] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:49][92] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:49][93] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:53][93] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:53][94] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:57][94] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:54:57][95] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:01][95] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:01][96] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:05][96] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:05][97] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:10][97] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:10][98] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:15][98] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:15][99] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:19][99] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:19][100] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:23][100] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:23][101] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:26][101] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:26][102] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:30][102] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:30][103] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:35][103] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:35][104] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+Expected response code 220 but got an empty response[2022-02-07 09:55:36][104] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:36][105] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:40][105] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:40][106] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:44][106] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:44][107] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:48][107] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:48][108] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:52][108] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:52][109] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:56][109] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:55:56][110] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:00][110] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:00][111] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:04][111] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:04][112] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:08][112] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:08][113] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:12][113] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:12][114] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:15][114] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:15][115] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:20][115] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:20][116] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:24][116] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:24][117] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:29][117] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:29][118] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:33][118] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:33][119] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:37][119] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:37][120] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:41][120] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:41][121] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:45][121] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:45][122] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:49][122] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:49][123] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:53][123] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:53][124] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:58][124] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:56:58][125] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:02][125] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:02][126] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:07][126] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:07][127] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:11][127] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:11][128] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:14][128] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:14][129] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:19][129] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:19][130] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:23][130] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:23][131] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:27][131] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:27][132] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:31][132] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:31][133] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:36][133] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:36][134] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:41][134] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:41][135] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:45][135] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:45][136] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:48][136] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:48][137] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:53][137] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:53][138] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:57][138] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:57:57][139] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:01][139] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:01][140] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:04][140] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:04][141] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:09][141] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:09][142] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:13][142] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:13][143] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:17][143] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:17][144] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:21][144] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:21][145] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:26][145] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:26][146] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:30][146] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:30][147] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:34][147] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:34][148] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:38][148] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:38][149] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:43][149] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:43][150] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:49][150] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:49][151] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:53][151] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:53][152] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:57][152] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:58:58][153] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:02][153] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:02][154] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:06][154] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:06][155] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:10][155] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:10][156] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:15][156] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:15][157] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:19][157] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:19][158] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:23][158] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:23][159] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:28][159] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:28][160] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:32][160] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:32][161] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:36][161] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:36][162] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:41][162] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:41][163] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:45][163] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:45][164] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:49][164] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:49][165] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:53][165] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:53][166] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:57][166] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 09:59:57][167] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:01][167] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:01][168] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:05][168] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:05][169] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:09][169] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:09][170] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:13][170] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:13][171] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:18][171] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:18][172] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:22][172] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:22][173] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:25][173] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:25][174] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:29][174] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:29][175] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:33][175] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:33][176] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:37][176] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:37][177] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:41][177] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:41][178] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:45][178] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:45][179] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:50][179] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:50][180] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:53][180] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:53][181] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:58][181] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:00:58][182] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:04][182] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:04][183] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:09][183] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:09][184] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:14][184] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:14][185] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:20][185] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:20][186] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:25][186] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:25][187] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:30][187] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:30][188] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:34][188] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:34][189] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:38][189] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:38][190] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:44][190] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:44][191] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:48][191] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:48][192] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:53][192] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:53][193] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:57][193] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:01:57][194] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:01][194] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:01][195] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:05][195] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:05][196] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:10][196] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:10][197] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:14][197] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:14][198] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:19][198] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:19][199] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:23][199] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:23][200] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:28][200] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:28][201] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:33][201] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:33][202] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:38][202] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:38][203] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:42][203] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:42][204] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:46][204] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:46][205] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:50][205] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:50][206] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:53][206] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:53][207] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:58][207] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:02:58][208] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:02][208] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:02][209] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:07][209] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:07][210] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:11][210] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:11][211] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:15][211] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:15][212] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:19][212] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:19][213] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:22][213] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:22][214] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:26][214] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:26][215] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:30][215] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:30][216] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:34][216] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:34][217] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:38][217] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:38][218] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:43][218] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:43][219] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:47][219] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:47][220] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:51][220] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:51][221] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:55][221] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:55][222] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:59][222] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:03:59][223] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:03][223] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:03][224] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:07][224] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:07][225] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:12][225] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:12][226] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:15][226] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:15][227] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:19][227] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:19][228] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:22][228] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:22][229] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:27][229] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:27][230] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:30][230] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:30][231] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:35][231] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:35][232] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:39][232] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:39][233] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:43][233] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:43][234] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:48][234] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:48][235] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:52][235] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:52][236] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:57][236] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:04:57][237] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:01][237] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:01][238] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:06][238] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:06][239] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:11][239] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:14][240] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:18][240] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:18][241] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:23][241] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:23][242] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:27][242] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:27][243] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:31][243] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:31][244] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:35][244] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:35][245] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:39][245] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:39][246] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:43][246] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:43][247] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:47][247] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:47][248] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:51][248] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:51][249] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:55][249] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:55][250] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+Expected response code 220 but got an empty response[2022-02-07 10:05:57][250] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:05:57][251] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:01][251] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:01][252] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:05][252] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:05][253] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:10][253] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:10][254] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:14][254] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:14][255] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:19][255] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:19][256] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:22][256] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:22][257] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:27][257] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:27][258] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+Expected response code 220 but got an empty response[2022-02-07 10:06:28][258] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:28][259] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:32][259] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:32][260] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:37][260] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:37][261] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:41][261] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:41][262] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:45][262] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:45][263] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:49][263] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:49][264] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:53][264] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:53][265] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:57][265] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:06:57][266] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:01][266] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:01][267] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:05][267] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:05][268] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:09][268] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:09][269] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:13][269] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:13][270] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:17][270] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:17][271] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:21][271] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:21][272] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:26][272] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:26][273] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:30][273] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:30][274] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:34][274] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:34][275] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:38][275] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:38][276] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:42][276] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:42][277] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:47][277] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:47][278] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:51][278] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:51][279] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:54][279] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:54][280] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:58][280] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:07:58][281] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:02][281] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:02][282] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:06][282] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:06][283] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:11][283] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:11][284] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:15][284] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:15][285] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:19][285] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:19][286] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:23][286] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:23][287] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:27][287] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:27][288] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:32][288] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:32][289] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:36][289] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:36][290] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:40][290] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:40][291] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:44][291] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:44][292] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:47][292] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:47][293] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:51][293] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:51][294] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:54][294] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:54][295] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:58][295] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:08:58][296] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:01][296] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:01][297] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:05][297] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:05][298] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:10][298] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:10][299] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:14][299] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:14][300] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:18][300] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:18][301] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:23][301] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:23][302] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:27][302] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:27][303] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:31][303] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:31][304] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:35][304] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:35][305] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:39][305] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:39][306] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:44][306] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:44][307] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:48][307] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:48][308] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:52][308] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:52][309] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:57][309] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:09:57][310] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:02][310] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:02][311] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:05][311] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:05][312] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:10][312] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:10][313] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:15][313] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:15][314] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:19][314] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:19][315] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:23][315] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:23][316] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:26][316] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:26][317] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:30][317] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:30][318] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:34][318] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:34][319] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:37][319] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:37][320] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:41][320] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:41][321] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:45][321] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:45][322] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:48][322] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:48][323] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:53][323] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:53][324] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:57][324] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:10:57][325] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:01][325] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:01][326] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:06][326] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:06][327] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:10][327] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:10][328] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:14][328] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:14][329] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:18][329] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:18][330] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:22][330] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:22][331] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:26][331] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:26][332] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:30][332] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:30][333] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:34][333] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:34][334] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:38][334] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:38][335] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:43][335] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:43][336] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:47][336] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:47][337] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:50][337] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:50][338] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:54][338] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:54][339] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:58][339] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:11:58][340] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:12:03][340] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:12:03][341] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-07 10:12:08][341] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+PHP Fatal error:  Uncaught ErrorException: include(/var/www/html/vendor/composer/../nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php): Failed to open stream: No such file or directory in /var/www/html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#2 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /var/www/html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php(50): Composer\Autoload\ClassLoader->loadClass()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider->NunoMaduro\Collision\Adapters\Laravel\{closure}()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve()
+#8 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make()
+#9 /var/www/html/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php(65): Illuminate\Foundation\Application->make()
+#10 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(182): NunoMaduro\Collision\Adapters\Laravel\ExceptionHandler->renderForConsole()
+#11 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(168): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole()
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#13 {main}
+  thrown in /var/www/html/vendor/composer/ClassLoader.php on line 571
+PHP Fatal error:  Uncaught ErrorException: include(/var/www/html/vendor/composer/../symfony/error-handler/Error/FatalError.php): Failed to open stream: No such file or directory in /var/www/html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#2 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(217): Composer\Autoload\ClassLoader->loadClass()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->fatalErrorFromPhpError()
+#5 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#6 {main}
+  thrown in /var/www/html/vendor/composer/ClassLoader.php on line 571
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /var/www/html/bootstrap/app.php:14
+Stack trace:
+#0 /var/www/html/artisan(20): require_once()
+#1 {main}
+  thrown in /var/www/html/bootstrap/app.php on line 14
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   WARN  Unable to determine the current RoadRunner binary version. Please report this issue: https://github.com/laravel/octane/issues/new.
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   ERROR  sh: 1: exec: /var/www/html/rr: Operation not permitted
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+  404    GET /blog ........................................ 22.24 mb 5887.68 ms
+  200    GET / ............................................ 28.74 mb 1238.59 ms
+  302    GET /login ......................................... 28.68 mb 30.28 ms
+  200    GET /dashboard ..................................... 28.89 mb 54.89 ms
+  200    GET /idle-timeout-alert/check ...................... 28.88 mb 36.20 ms
+  200    GET /online-users ................................. 28.65 mb 624.86 ms
+  200    GET /electronic-billing/documents .................. 28.72 mb 43.01 ms
+  200    GET /dashboard ..................................... 28.75 mb 27.01 ms
+  200    GET /online-users .................................. 28.76 mb 33.08 ms
+  200    GET /remote_access ................................. 28.85 mb 45.09 ms
+  200    GET /dashboard ..................................... 28.82 mb 26.88 ms
+  200    GET /online-users .................................. 28.83 mb 88.43 ms
+  200    GET /electronic-billing/national/invoices ......... 28.85 mb 209.45 ms
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+  200    GET /design-requirements/requirement/2 ........... 29.09 mb 2896.23 ms
+  200    GET /design-requirements/requirement/2 ........... 29.09 mb 2906.36 ms
+  200    GET /idle-timeout-alert/check ...................... 29.06 mb 34.80 ms
+  404    GET /dist/js/vuedraggable.umd.js.map .............. 29.31 mb 175.47 ms
+  200    GET /design-requirements/requirement/2 ............. 29.40 mb 86.93 ms
+  200    GET /design-requirements/requirement/2 ............ 29.09 mb 998.48 ms
+  200    GET /idle-timeout-alert/check ..................... 29.06 mb 211.40 ms
+  404    GET /dist/js/vuedraggable.umd.js.map .............. 29.31 mb 132.22 ms
+  200    GET /dashboard .................................... 29.32 mb 302.49 ms
+  200    GET /online-users ................................. 32.48 mb 616.15 ms
+  200    POST /design-requirements/upload-file ............. 34.50 mb 153.59 ms
+  200    GET /arts ........................................ 74.85 mb 1762.09 ms
+  200    GET /electronic-billing/national/invoices .......... 34.58 mb 29.96 ms
+  200    GET /electronic-billing/national/invoices/searc... 43.98 mb 7524.50 ms
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:80 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:8000 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:8000 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:8000 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running…
+
+  Local: http://0.0.0.0:8000 
+
+  Press Ctrl+C to stop the server
+
+[2022-02-09 10:03:20][342] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-02-09 10:03:29][342] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+[2022-03-01 15:41:48][1] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+PHP Fatal error:  Declaration of Psr\Log\AbstractLogger::emergency(Stringable|string $message, array $context = []) must be compatible with Psr\Log\LoggerInterface::emergency(Stringable|string $message, array $context = []): void in /var/www/html/vendor/psr/log/src/LoggerTrait.php on line 23
+
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Declaration of Psr\Log\AbstractLogger::emergency(Stringable|string $message, array $context = []) must be compatible with Psr\Log\LoggerInterface::emergency(Stringable|string $message, array $context = []): void
+
+  at vendor/psr/log/src/LoggerTrait.php:23
+     19▕      * @param array  $context
+     20▕      *
+     21▕      * @return void
+     22▕      */
+  ➜  23▕     public function emergency(string|\Stringable $message, array $context = [])
+     24▕     {
+     25▕         $this->log(LogLevel::EMERGENCY, $message, $context);
+     26▕     }
+     27▕
+
+
+   Whoops\Exception\ErrorException 
+
+  Declaration of Psr\Log\AbstractLogger::emergency(Stringable|string $message, array $context = []) must be compatible with Psr\Log\LoggerInterface::emergency(Stringable|string $message, array $context = []): void
+
+  at vendor/psr/log/src/LoggerTrait.php:23
+     19▕      * @param array  $context
+     20▕      *
+     21▕      * @return void
+     22▕      */
+  ➜  23▕     public function emergency(string|\Stringable $message, array $context = [])
+     24▕     {
+     25▕         $this->log(LogLevel::EMERGENCY, $message, $context);
+     26▕     }
+     27▕
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+[2022-03-01 15:43:18][1] Processing: App\Jobs\SendProofPaymentMailQueueEmail
+[2022-03-01 15:43:26][1] Processed:  App\Jobs\SendProofPaymentMailQueueEmail
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).

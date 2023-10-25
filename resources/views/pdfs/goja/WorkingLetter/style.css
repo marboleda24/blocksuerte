@@ -1,0 +1,9 @@
+@page {
+    background: url("dist/images/goja/goja_pdf.png") no-repeat 0 0;
+    background-image-resize: 6;
+}
+.box {
+    font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+    margin: auto;
+    padding: 60px;
+}
